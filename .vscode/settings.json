@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "*.cjson": "jsonc",
+        "*.wxss": "css",
+        "*.wxs": "javascript",
+        "fcntl.h": "c",
+        "types.h": "c",
+        "user.h": "c",
+        "__config": "c",
+        "algorithm": "c",
+        "cstdio": "c",
+        "ctime": "c",
+        "cwchar": "c",
+        "type_traits": "c",
+        "unordered_map": "c",
+        "vector": "c",
+        "locale": "c"
+    }
+}
